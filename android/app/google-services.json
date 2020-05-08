@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86890687775",
+    "firebase_url": "https://logistics-272902.firebaseio.com",
+    "project_id": "logistics-272902",
+    "storage_bucket": "logistics-272902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86890687775:android:fd397a81f1ff74d91ad42a",
+        "android_client_info": {
+          "package_name": "com.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86890687775-ogt3vo6f65oaupgi0u4pc8o602n7uh04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjbuCfmFo17j_PAPbGPKjkfeA77AoFC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86890687775-ogt3vo6f65oaupgi0u4pc8o602n7uh04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
